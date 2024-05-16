@@ -1,0 +1,59 @@
+Average Sales.Total earnings of the user that the program sums
+together, providing the gross amount of the user’s Average Sales
+per Day within a month. The user will be able to identify which
+days of the month wherein their business’ sales are flourishing
+and where they may need improvements.
+
+Business Sales. The system will collect all the user’s earnings
+that come from their business operations, primarily their daily
+Sales. The system will calculate these daily Sales along with
+the user’s Total Expenses to provide the user with their
+business’ Total Monthly Sales, Monthly Net Income, and Average
+Sales per Day of the month. These features reflect the user’s
+financial business state each month of the year and can be used
+for monthly/annual business management.
+
+Expense Monitor.The system collects all the user’s Total Monthly
+Expenses, providing the gross amount that the user can monitor
+and compare with other months’ Total Expenses. This feature will
+help the user keep their monthly expenses in line with their
+monthly/annual business budget.
+
+Net Income.The system displays the Net Income that reflects the
+user’s total earnings after the program has deducted the user’s
+Total Monthly Expenses from their Total Monthly Sales. Providing
+the user a proper look at their business’ total monthly revenue.
+
+Quarterly Trend Analysis.The system utilizes the Quarterly Trend
+Analysis tool to provide the user with a year-over-year
+comparison of their business’ sales performance. The system will
+display the user’s current Annual Sales from a particular month
+(e.g., January Sales 2020) and compare them with previous Annual
+Sales from that same month (e.g., January Sales 2021). This
+feature provides the user with information on their business’
+annual sales performance for better decision-making business
+actions in the future.
+
+Standard Deviation.This feature in the system will calculate the
+user’s daily Sales, estimating how much they’ve earned within a
+month from their business’ product/service/property price.
+
+Total Expenses. All expenses that the user has spent from their
+business’ daily Sales within a month. This provides the system a
+basis to calculate the user’s Monthly Net Income by subtracting
+their Total Expenses from their daily Sales. This feature will
+also benefit the user to keep track of how much they’re spending
+on their business operation on a monthly basis.
+
+Total Sales.The system will sum up all the user’s input Daily
+Business Sales from every business day operation into Total
+Monthly Sales. This provides the user with information about
+their business’ seasonality, identifying what months their
+business performance peaks the most and what months their
+business struggles.
+
+Monitor. In the context of business sales and expenses,
+monitoring refers to the systematic tracking and analysis of
+sales and expense data over time. It involves closely observing
+and recording relevant financial information to gain insights
+into the financial performance of the business.
